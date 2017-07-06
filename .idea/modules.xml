@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/swiper-test.iml" filepath="$PROJECT_DIR$/.idea/swiper-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/react-todo.iml" filepath="$PROJECT_DIR$/.idea/react-todo.iml" />
+      <module fileurl="file://D:\WebstormProject\react-todo\.idea\swiper-test.iml" filepath="D:\WebstormProject\react-todo\.idea\swiper-test.iml" />
     </modules>
   </component>
 </project>
