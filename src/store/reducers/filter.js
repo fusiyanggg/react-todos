@@ -12,5 +12,4 @@ export default function (state = 'all', action = {}) {
         default:
             return state
     }
-
 }
