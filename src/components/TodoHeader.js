@@ -2,9 +2,7 @@ import React, {Component} from 'react';
 export default class TodoHeader extends Component {
     render() {
         return (
-            <div>
-                App
-            </div>
+            <input type="text" className="form-control"/>
         )
     }
 }
