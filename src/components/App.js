@@ -7,7 +7,7 @@ export default class App extends Component {
     render() {
         return (
 //          .row>.col-sm-6.col-sm-offset-3>.panel.panel-default>.panel-heading+.panel-body+.panel-footer
-            <div clssName="container">
+            <div className="container">
 
                 <div className="row">
                     <div className="col-sm-6 col-sm-offset-3">

@@ -1,8 +1,7 @@
 import {ADD_TODO} from '../action-types'
-
+// todo的reducer
 
 /**
- * todo的reducer
  * @param state
  * @param action
  * @description 增加 删除 切换完成状态
